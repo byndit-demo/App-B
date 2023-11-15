@@ -1,6 +1,6 @@
 {
   "id": "3e591588-983e-4741-9f37-b7662f66d9f4",
-  "name": "AppB",
+  "name": "AppB1",
   "publisher": "BEYONDIT GmbH",
   "version": "1.0.0.0",
   "brief": "",
@@ -17,7 +17,7 @@
   "idRanges": [
     {
       "from": 50200,
-      "to": 50299
+      "to": 50249
     }
   ],
   "features": [
