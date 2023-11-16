@@ -1,5 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@issue823",
-  "useProjectDependencies": true
+  "useProjectDependencies": true,
+  "generateDependencyArtifact": true
 }
