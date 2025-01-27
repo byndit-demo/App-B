@@ -8,6 +8,7 @@
   "enableCodeCop": true,
   "enableUICop": true,
   "useProjectDependencies": true,
+  "generateDependencyArtifact": true,
   "assignPremiumPlan": true,
   "templateSha": "ba4fc723e4c024674baa6a53ef1777402cfbaab0"
 }
