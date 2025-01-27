@@ -1,7 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/freddydk/AL-Go@issue823",
-  "useProjectDependencies": true,
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "nextMajorSchedule": "0 0 1 * *",
   "nextMinorSchedule": "0 0 1,15 * *",
   "currentSchedule": "0 0 1,15 * *",
@@ -10,4 +9,5 @@
   "enableUICop": true,
   "useProjectDependencies": true,
   "assignPremiumPlan": true,
+  "templateSha": "ba4fc723e4c024674baa6a53ef1777402cfbaab0"
 }
