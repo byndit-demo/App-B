@@ -2,7 +2,7 @@
   "id": "7080a3d7-a200-444b-a45c-9527845c8108",
   "name": "AppB2",
   "publisher": "BEYONDIT GmbH",
-  "version": "1.0.0.0",
+  "version": "2025.2.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -15,7 +15,7 @@
       "id": "3e591588-983e-4741-9f37-b7662f66d9f4",
       "name": "AppB1",
       "publisher": "BEYONDIT GmbH",
-      "version": "1.0.0.0"
+      "version": "2025.2.0.0"
     }
   ],
   "screenshots": [],
@@ -27,7 +27,9 @@
       "to": 50299
     }
   ],
-  "features": ["NoImplicitWith"],
+  "features": [
+    "NoImplicitWith"
+  ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
